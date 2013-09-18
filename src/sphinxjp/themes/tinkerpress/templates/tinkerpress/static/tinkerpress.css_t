@@ -5,7 +5,7 @@
  * Stylesheet for tinkerpress theme.
  *
  * :copyright: Copyright 2013 by Shoji KUMAGAI
- * :license: FreeBSD, see LICENSE file
+ * :license: MIT, see LICENSE file
  */
 
 @import url(http://fonts.googleapis.com/css?family=PT+Serif|PT+Sans);
