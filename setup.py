@@ -27,7 +27,7 @@ setup(
     keywords=['tinkerer', 'sphinxjp', 'reStructuredText', 'theme'],
     author='Shoji KUMAGAI',
     author_email='take dot this dot 2 dot your dot grave at gmail dot com',
-    url='https://bitbucket.org/shkumagai/sphinxjp.themes.tinkerpress',
+    url='https://github.com/shkumagai/sphinxjp.themes.tinkerpress',
     license='MIT',
     namespace_packages=['sphinxjp', 'sphinxjp.themes'],
     packages=find_packages('src'),
