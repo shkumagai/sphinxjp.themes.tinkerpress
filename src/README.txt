@@ -27,10 +27,16 @@ setup conf.py with::
    html_theme = 'tinkerpress'
    extensions = [..., 'sphinxjp.themecore']
 
+.. note::
+   The latest version of Sphinx (1.2b2 or higher) is includes the
+   sphinxjp.themecore functionalities. Therefore you do not need to
+   modify 'extensions' value if you use Sphinx version 1.2b2 or higher.
 
 and run::
 
    $ tinker -b
+
+Enjoy!
 
 
 Requirement
